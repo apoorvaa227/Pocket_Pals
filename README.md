@@ -1,4 +1,4 @@
-## Splitwise - MySQL, ExpressJS, ReactJS, NodeJS
+## Pocket Pals - MySQL, ExpressJS, ReactJS, NodeJS
 
 Steps:
  - Clone the repo
