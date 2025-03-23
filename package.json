@@ -4,8 +4,10 @@
   "description": "Steps:  - Clone the repo  - Import `database.sql` file to a MySQL database  - Open Terminal and Run `cd backend`  - Run `npm i` to install required packages for NodeJS backend  - Run `npm start` to start the ExpressJS server   - Open another Terminal and Run `cd frontend`  - Run `npm i` to install required packages for ReactJS frontend  - Run `npm start` to start the ReactJS server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "node server.js",
+  "build": "echo 'No build step needed' "
+}
+,
   "keywords": [],
   "author": "",
   "license": "ISC"

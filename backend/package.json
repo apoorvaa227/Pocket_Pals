@@ -4,8 +4,10 @@
   "description": "Splitwise Backend",
   "main": "server.js",
   "scripts": {
-    "test": "mocha"
-  },
+  "start": "node server.js",
+  "build": "echo 'No build step needed' "
+},
+
   "author": "",
   "license": "ISC",
   "dependencies": {
